@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="PiscesCLI.Batch/PiscesCLI.Batch.csproj" Id="e5d10b40-873e-4e16-8d37-c8c616f35bcf" />
+  <Project Path="PiscesCLI.Bulk/PiscesCLI.Bulk.csproj" Id="3c2e3821-5bed-40a3-b7ee-80e801205185" />
+  <Project Path="PiscesCLI.ConsoleApp/PiscesCLI.ConsoleApp.csproj" Id="8b95da83-67c4-4aa3-98d2-fa5767380a7b" />
+  <Project Path="PiscesCLI.Core/PiscesCLI.Core.csproj" Id="3b9f4f1f-ab25-4548-8e2b-b18621a771c9" />
+  <Project Path="PiscesCLI.Daemon/PiscesCLI.Daemon.csproj" Id="e5884ddb-62c0-41a9-abe7-b525977c81f1" />
+</Solution>
