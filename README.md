@@ -9,7 +9,7 @@
 
 <br/>
 
-**PiscesCLI** is an internal C#-based command-line interface and background daemon toolchain created by **Everblooming Lab** (a DBA of Catmint Works LLC). 
+**PiscesCLI** is an internal C#-based command-line interface and background daemon toolchain created by **Everblooming Lab** (an experimental game development and technical R&D division of Catmint Works LLC.). 
 
 Designed around the Google Gemini API (`Google.GenAI`), it provides a highly decoupled, rate-limited, and scalable framework for single-shot generation, high-concurrency real-time bulk processing, and asynchronous batch job management.
 
